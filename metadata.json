@@ -1,0 +1,6 @@
+{
+  "name": "Ludo",
+  "description": "A fully-featured Ludo board game with interactive local multiplayer, custom rule-based local AI players, rolling animations, safe zones, and particle effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
